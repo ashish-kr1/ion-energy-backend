@@ -3,7 +3,7 @@
  clone the repository
  npm install
  npm start 
- ## Note : Dont't use nodemon instead use npm start
+ ## Note : Don't use nodemon instead use npm start
  ## Multer is used to upload file
  ## uploads folder contain the uploaded file temp0001.
  
